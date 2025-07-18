@@ -1,0 +1,64 @@
+###############################################
+#           ARCHIVO DE TAREAS DEL PROYECTO    #
+#                 to_do.txt                   #
+###############################################
+
+Este archivo tiene como finalidad documentar todas las labores asignadas, su progreso y las personas responsables.
+
+Sigan las siguientes instrucciones al registrar o actualizar tareas:
+
+1. Registren la tarea con los siguientes campos:
+   - Estado: asignada / en progreso / completada
+   - Título: nombre corto y claro de la tarea
+   - Descripción: qué implica la tarea
+   - Responsable(s): nombre(s) de quien está a cargo
+   - Fecha de asignación: DD-MM-AAAA
+   - Fecha de finalización: solo si ya está terminada
+   - Notas: avances, problemas o comentarios relevantes
+
+3. Es importante **no eliminar ninguna tarea completada**. Este archivo también funciona como historial del proyecto.
+
+4. Las tareas deben escribirse en orden cronológico de asignación.
+
+5. Si una tarea cambia de estado, actualiza la línea correspondiente sin borrar el resto de la información.
+
+############################################################
+
+Estado: <pendiente/en progreso/completada>
+Título: <nombre breve de la tarea>
+Descripción: <explicación clara de la tarea>
+Responsable(s): <nombre(s) de la(s) persona(s)>
+Fecha de asignación: <DD-MM-AAAA>
+Fecha de finalización (si aplica): <DD-MM-AAAA>
+Notas: <comentarios adicionales o avances>
+
+############################################################
+
+Estado: Pendiente
+Título: Recolección de datos de gravimetría del interior de Marte
+Descripción: Encontrar datos de gravimetría del interior de Marte para construir perfiles más precisos de la corteza marciana en diferentes puntos.
+Responsable(s): Ruby Contreras, Juliana Ruiz
+Fecha de asignación: 23-06-2025
+Notas:
+
+Estado: Pendiente
+Título: Composición interna y sismología de Marte
+Descripción: Reunir datos sobre la composición interna del planeta y su sismología para entender mejor la estructura de la corteza y su mineralogía.
+Responsable(s): Brandon Montoya, Simón Rodriguez
+Fecha de asignación: 23-06-2025
+Notas: Considerar datos de la misión InSight de la NASA como punto de partida.
+
+Estado: Pendiente
+Título: Diagrama de fase con salinidad variable
+Descripción: Crear un diagrama de fase del agua considerando distintos niveles de salinidad para. 
+Responsable(s): Maria Isabel Olarte, Angel López
+Fecha de asignación: 23-06-2025
+Notas: 
+
+Estado: Pendiente
+Título: Búsqueda de datos sobre salinidad en Marte
+Descripción: Buscar datos sobre la salinidad en Marte para complementar el desarrollo del diagrama de fase.
+Responsable(s): Camilo Ospinal, David Perez
+Fecha de asignación: 23-06-2025
+Notas: Utilizar nair2020 como punto de partida
+
